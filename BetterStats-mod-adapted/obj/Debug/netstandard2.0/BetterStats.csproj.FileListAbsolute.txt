@@ -1,0 +1,11 @@
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\bin\Debug\netstandard2.0\BetterStats.deps.json
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\bin\Debug\netstandard2.0\BetterStats.dll
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\bin\Debug\netstandard2.0\BetterStats.pdb
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.csproj.AssemblyReference.cache
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\PluginInfo.cs
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.AssemblyInfoInputs.cache
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.AssemblyInfo.cs
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.csproj.CoreCompileInputs.cache
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.dll
+D:\Ubuntu VM\Windows_Ubuntu_share\Final_Project\DSPMods\QOL\BetterStats\obj\Debug\netstandard2.0\BetterStats.pdb

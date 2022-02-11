@@ -1,0 +1,7 @@
+{
+    "AWS": {
+        "Profile": "s3_full",
+        "ProfilesLocation": "C:\\Users\\asamy\\.aws\\credentials",
+        "Region": "us-east-1"
+    }
+}
